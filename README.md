@@ -6,9 +6,7 @@ PDF Chatbot is a Streamlit web application that allows users to interactively as
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [License](#license)
-
+  
 ## Dependencies
 The project relies on the following dependencies:
 - [Streamlit](https://streamlit.io/): A Python library for building interactive web applications.
