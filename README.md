@@ -30,7 +30,7 @@ The project relies on the following dependencies:
    ```
 4. Create a `.env` file in the project directory:
    ```plaintext
-   GOOGLE_API_KEY=your-google-api-key
+   GOOGLE_API_KEY="your-google-api-key"
    ```
 Make sure to replace `your-google-api-key` with your actual Google API key.
 
